@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Pacifico', cursive;
+  background-image: url('image/wine-8346641_1280.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  height: 100vh; 
+
+}
+
+.menu-card {
+  background-color: rgba(255, 255, 255, 0.8); 
+  width: 50%; 
+  max-width: 500px; 
+  margin: 70px auto; 
+  padding: 100px; 
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+}
+
+.menu-item {
+  margin-bottom: 30px; 
+}
+
+h1 {
+  text-align: center; 
+  font-size: xx-large;
+  font-style: oblique;
+}
+
+h2 {
+  margin-bottom: 5px; 
+  font-size: medium;
+  font-style: italic;
+}
+h3 {
+  text-align: center;
+}
+ul {
+  list-style-type: none; 
+  padding: 0; 
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.underline-bar {
+  width: 100%; 
+  height: 2px; 
+  background-color: #000; 
+}
+.footer {
+  margin-top: 20px; 
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+
+}
+
+.upper-underline {
+  position: absolute;
+  top: -10px;
+  width: 100%;
+  height: 2px;
+  background-color: #000;
+}
+
